@@ -1,4 +1,4 @@
-local staff = {
+[
     { "nome": "mknickk", "id": 1483608259469512906, "role": "Developer" }
     { "nome": "Ciclano",  "id": 987654321, "role": "Admin" },
     { "nome": "ZZClief", "id": 1308669328253517887, "role": "Developer" }
@@ -117,6 +117,4 @@ local staff = {
     { "nome": "deku",   "id": 758313614149943336, "role": "Media" }    
     { "nome": "x4pv5",   "id": 861934612162019349, "role": "Media" }    
     { "nome": "Henix",   "id": 850750929824382996, "role": "Media" },
-
-
 ]
