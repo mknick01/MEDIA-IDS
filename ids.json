@@ -1,4 +1,4 @@
-[local staff = {
+local staff = {
     { "nome": "mknickk", "id": 1483608259469512906, "role": "Developer" }
     { "nome": "Ciclano",  "id": 987654321, "role": "Admin" },
     { "nome": "ZZClief", "id": 1308669328253517887, "role": "Developer" }
